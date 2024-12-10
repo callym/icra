@@ -1,0 +1,321 @@
+id,genus,epithet,synonym,synonym_details.genus,synonym_details.epithet,registrant_name,originator_name,date_of_registration,seed_parent.genus,seed_parent.epithet,pollen_parent.genus,pollen_parent.epithet
+
+# Baptistonia echinata is a synonym of Gomesa echinata according to POWO
+137857,Oncidium,brunleesianum,true,Gomesa,echinata,This is a natural hybrid,This is a natural hybrid,,,,,
+
+# Cymbidium Sedeni, Cymbidium Sedenii are synonyms
+26130,Cymbidium,Lowio-grandiflorum,true,Cymbidium,Sedeni,Veitch,Veitch,1902/01/01,Cymbidium,lowianum,Cymbidium,hookerianum
+
+# Tanake registered in 2001
+104690,Calanthe,Bicolor,false,Calanthe,Takane,hort.,hort.,1900/01/01,Calanthe,discolor,Calanthe,striata
+
+# Paphiopedilum Enchanted Mystery and Enchanted Claire have each other as parents
+900792,Paphiopedilum,Enchanted Claire,false,,,Lehua,Orchid Zone,2008/04/14,,,Paphiopedilum,Clairkuli
+
+# Listed as a synonym of itself
+127202,Dendrobium,Long Tan,false,,,Down Under N.O.,Down Under N.O.,1999/06/09,Dendrobium,Beast,Dendrobium,Vivid
+
+# Listed as a synonym but with no details
+90774,Epicattleya,Zebra Rose,false,,,H.Edelbrock,H.Edelbrock,1992/02/03,Epidendrum,gracile,Cattleya,Claesiana Alba
+
+# Listed as a synonym of 'Encyclia gracilis misapplied', which isn't a species
+49012,Epidendrum,gracile,false,,,,,,,,,
+
+# Listed as synonyms of each other
+978784,Phalaenopsis,hygrochila,false,Hygrochilus,parishii,,,,,,,
+920551,Gomesa,cruciata,false,Oncidium,cruciatum,,,,,,,
+
+# Parent listed as itself
+1017007,Serapias,× frigolae subsp. brundisina,true,,,,,,Serapias,bergonii,,
+
+# The following have a parent that doesn't appear in the RHS Registrar data
+# Vanda Vichot
+1066018,Vandachostylis,Kultana Black,false,,,Kultana,Kultana,2024/08/19,,,Rhynchostylis,coelestis
+
+# Holcovanstylis mitrata (Holcovanstylis is a neogenus so mitrata can't be a species)
+1065728,Holcovanstylis,Sheng Yi Blue Sky,false,,,Sheng Yi Orch.,Sheng Yi Orch.,2024/08/05,,,Rhynchostylis,retusa
+
+# Dendrobium Burana Doll
+1064301,Dendrobium,Dr K Balanathan,false,,,R.Rajah,Rajah Sreenivasan,2024/04/21,Dendrobium,Bangkok Fancy,,
+
+# Dendrobium Meiry Nasution
+1064115,Dendrobium,Nona Hendrix,false,,,M.Shantiuli,M.Shantiuli,2024/04/11,Dendrobium,Kamilah Safira,,
+
+# Dendrobium Elvita Sandra
+1062253,Dendrobium,Narendra,false,,,N. Anindhita,N. Anindhita,2024/01/02,,,Dendrobium,Nandia Anindhita
+
+# Phalaenopsis Jiuhbao Peach
+1060654,Phalaenopsis,Jiuhbao Milky Way,false,Phalaenopsis,Jiuhbao Ben Fang,Huang,Huang,2023/11/16,Phalaenopsis,Jiuhbao Tide,,
+
+# Zygopabstia,Nusa Dua
+1055771,Stephenmonkhouseara,Tasman Quest,false,,,Barrita,Ste. Monkhouse,2023/04/30,,,Hamelwellsara,Aussie Quest
+
+# Dendrobium Burana Pink Sky
+936962,Dendrobium,Dianbao Butterfly,false,,,Dian Bao,Dian Bao,2011/02/19,,,Dendrobium,Burana Crystal
+
+# Dendrobium Sinfonia
+930321,Dendrobium,Alisun Cherry,false,,,Alisun Orch.,Alisun Orch.,2010/08/24,Dendrobium,Cherry Song,,
+
+# Oncidopsis Devossiana
+1001441,Oncidopsis,Des Viviers,false,,,E.Young O.F.,E.Young O.F.,2017/04/04,,,Oncidium,La Forge
+
+# Dendrobium Simon Robert Martin, Dendrobium Sir Bobby M
+930322,Dendrobium,Alisun Fire Cherry,false,,,Alisun Orch.,Alisun Orch.,2010/08/24,,,,
+
+# Rhyncholaeliocattleya Northbury
+976227,Rhyncholaeliocattleya,Haadyai de Paris,false,Brassolaeliocattleya,,Marcel Lecoufle,Marcel Lecoufle,2014/12/01,Rhyncholaeliocattleya,Haadyai Delight,,
+
+# Vanda Kow Kee Singe
+910291,Vanda,Kowcurvikee de Paris,false,Ascocenda,,Marcel Lecoufle,Marcel Lecoufle,2014/12/01,,,Vanda,curvifolia
+
+# Bletilla Janet's Golden Hybrid
+976333,Bletilla,Tasman Angel,false,,,H.Ronken,R.Cavender,2014/09/04,,,Bletilla,Yokohama
+
+# Cymbidium Financier
+975124,Cymbidium,Frigdaas Sarah Fly,false,,,FRIGDAAS,FRIGDAAS,2014/06/23,Cymbidium,Sarah Jean,,
+964573,Cymbidium,Frigdaas Financier Sinense,false,,,FRIGDAAS,FRIGDAAS,2013/04/22,,,Cymbidium,sinense
+
+# Phalaenopsis Happy Valley
+967153,Phalaenopsis,Wisley Happy Sun,false,,,RHS,,2013/07/03,Phalaenopsis,Sun Princess,,
+
+# Tolumnia Rich Orange
+956477,Tolumnia,Hsingda Beauty,false,,,Chen Chang,Chen Chang,2012/08/19,Tolumnia,Golden Sunray,,
+956478,Tolumnia,Hsingda Gorgeous,false,,,Chen Chang,Chen Chang,2012/08/19,,,Tolumnia,Snow Fairy
+956479,Eryumnia,Hsingda Cutey,false,Oncidium,,Chen Chang,Chen Chang,2012/08/19,,,Erycina,pusilla
+
+# Oncidium Tigerwild
+918048,Oncidium,Drum Beat,false,Wilsonara,,R.L.Burkey,R.L.Burkey,2009/07/28,,,Oncidium,Drummer Boy
+
+# Phalaenopsis Lipperflair
+168371,Phalaenopsis,Laura Galto,false,,,Hausermann,Hausermann,2007/12/24,,,Phalaenopsis,Radiant Rose
+
+# Phalaenopsis Tropic Dawn
+165180,Phalaenopsis,Dawn Flower,false,,,H.Ore,,2007/06/26,Phalaenopsis,Flor de Mato,,
+
+# Cattleya Schoser
+153366,Brassocattleya,Noser,false,,,,,2006/03/07,Brassavola,nodosa,,
+
+# Ascocenda Leng
+149100,Vanda,Long,true,,,RHS,,2005/01/01,Vanda,James Toogood,Vanda,Yip Sum Wah
+
+# Dendrobium Bedford
+140541,Dendrobium,Fine Ford,false,,,Hausermann,,2004/08/17,,,Dendrobium,affine
+
+# Dendrobium Thurston
+140727,Dendrobium,Helen Ng,false,,,Dominic Ng,S'pore Orchids,2004/08/23,Dendrobium,Amin,,
+
+# Dendrobium Laura Sladden
+140591,Dendrobium,Allyn Beauty,false,,,V.& N.Jupp,V.& N.Jupp,2004/08/18,,,Dendrobium,bigibbum
+
+# Phalaenopsis Lillian Kay
+140571,Phalaenopsis,Twin Vision,false,,,David Ai,,2004/08/18,,,Phalaenopsis,Lillian Hozaki
+
+# Vanda Ubangi
+140472,Vandaenopsis,Kissiable,false,Vandoritis,,June Fowler,J.Vande Weghe,2004/08/17,Phalaenopsis,pulcherrima,,
+140473,Vandaenopsis,Hot Lip,false,Hagerara,,June Fowler,J.Vande Weghe,2004/08/17,Phalaenopsis,Memoria Clarence Schubert,,
+
+# Phalaenopsis Rain Dancer
+140328,Phalaenopsis,Sunlands Sarah's Raindancer,false,,,G.J.McKay,S.Heyden,2004/08/09,Phalaenopsis,Memoria Sarah Robertson,,
+
+# Oncidium Malvin
+139614,Trichocidium,Yeok Pin Chua,false,Oncidium,,Chua Swee Cheng,Shimamoto,2004/07/01,,,Trichocentrum,splendidum
+
+# Dendrobium Napoli
+137118,Dendrobium,Liebe Natsuki,false,,,S.Osuga,S.Osuga,2004/04/01,Dendrobium,Yukidaruma,,
+
+# Dendrobium Moony Eyes
+137116,Dendrobium,Meine Frau Junko,false,,,S.Osuga,S.Osuga,2004/04/01,,,Dendrobium,Yukidaruma
+
+# Phalaenopsis Laura Galvez
+135037,Phalaenopsis,Etherege Joy,false,,,B.Main,W.Livingston,2003/12/03,Phalaenopsis,Etherege Mist,,
+
+# Vanda Lor Sor
+135033,Vanda,Adkins Gold Cup,false,Ascocenda,,Adkins Orch.,,2003/12/03,,,Vanda,Bangkhuntian Gold
+
+# Phalaenopsis Golden Valley
+135038,Phalaenopsis,Pamela's Sunset,false,,,W.Welter Jr.,W.Welter Jr.,2003/12/03,,,Phalaenopsis,Midnight Dream
+
+# Phalaenopsis Fire Music
+107298,Phalaenopsis,Little Fireball,false,,,C.Fighetti,C.Fighetti,1997/01/14,,,Phalaenopsis,equestris
+
+# Paphiopedilum N*****
+7299,Paphiopedilum,Golden Hill,false,,,Cooke,Cooke,1940/01/01,,,Paphiopedilum,Thias
+
+# Oncidium Sambo
+11560,Oncidium,Samada,false,Odontioda,,McBean's,McBean's,1934/01/01,Oncidium,Nada,,
+11637,Oncidium,Venetia,false,Odontioda,,McBean's,McBean's,1933/01/01,Oncidium,Niobe (1916),,
+11967,Oncidium,Crisambo,false,Odontoglossum,,McBean's,McBean's,1926/01/01,Oncidium,Crispo-Solon,,
+12100,Oncidium,Epsilon,false,Odontoglossum,,McBean's,McBean's,1924/01/01,Oncidium,Ardentissimum,,
+12528,Oncidium,Omar,false,Odontoglossum,,McBean's,McBean's,1932/01/01,Oncidium,Princess Mary I,,
+12811,Oncidium,Thule,false,Odontoglossum,,McBean's,McBean's,1931/01/01,Oncidium,Eximillus,,
+
+# The following have a parent that's not in the RHS database but is a species in POWO
+# Clowesia thylaciochila
+1065585,Clowesia,Mark Margolis,false,,,M.Margolis,F.Clarke,2024/07/22,,,Clowesia,russelliana
+
+# Dendrobium whewellii
+1065458,Dendrobium,Amphion Thallo,false,,,G.Dimos,G.Dimos,2024/07/09,,,Dendrobium,erythraeum
+1050853,Dendrobium,Tony Clarke,false,Dockrillia,,R.J.Bennett,C.W.Fitzsimmons,2022/07/23,Dendrobium,Tweetas,,
+
+# Aerangis macrocentra
+1059799,Aerangis,NK Fairy Tale,false,,,N. Kanazawa,N. Kanazawa,2023/10/12,Aerangis,mystacidii,,
+
+# Brassia arachnoidea
+1059714,Bratonia,Alessandra Malafaya,false,,,F.Deusvando,F.Deusvando,2023/10/09,Miltonia,flavescens,,
+977615,Bratonia,bahiensis,false,,,,,,Miltonia,flavescens,,
+
+# Dendrobium uniflorum
+1058205,Dendrobium,Nicha Snowflakes,false,,,Nicha Orchid,Nicha Orchid,2023/07/17,,,Dendrobium,dearei
+
+# Stanhopea shuttleworthii
+1057826,Stanhopea,Shuttleden,false,,,E. Faria,E. Faria,2023/06/28,,,Stanhopea,Assidensis
+1054077,Stanhopea,Alex Portilla,false,,,Ecuagenera,Ecuagenera,2023/02/02,Stanhopea,tigrina,,
+1044691,Stanhopea,Herois Do Mar,false,,,E. Faria,E. Faria,2021/08/01,,,Stanhopea,ruckeri
+924567,Stanhopea,Moorlands Dream,false,,,R.J.Hartley,R.J.Hartley,2010/01/15,,,Stanhopea,insignis
+
+# Phalaenopsis malipoensis
+981404,Phalaenopsis,Sacha,false,,,K.Herve,K.Herve,2015/03/23,Phalaenopsis,parishii,,
+1057453,Phalaenopsis,Dianpo,false,,,Yuxuan Jin,Zhilin,2023/06/08,Phalaenopsis,stobartiana,,
+1055405,Phalaenopsis,Averyam's Tin Wedding,false,,,Avery Chan,Avery Chan,2023/05/25,,,Phalaenopsis,lobbii
+1044322,Phalaenopsis,Micaels Malibu,false,,,M.Liu,M.Liu,2021/07/04,Phalaenopsis,Yaphon Gem,,
+1030826,Phalaenopsis,Grassau,false,,,O.Gruss,,2019/10/12,Phalaenopsis,wilsonii,,
+1020086,Phalaenopsis,Belle D'Eclipse,false,,,A.Brochart,A.Brochart,2019/02/02,,,Phalaenopsis,lowii
+997903,Phalaenopsis,Alba Men Dream,false,,,Alba Men,Alba Men,2016/10/20,Phalaenopsis,gibbosa,,
+997682,Phalaenopsis,Heike,false,,,I.Ziems,I.Ziems,2016/10/10,,,Phalaenopsis,maculata
+
+# Vanda perplexa
+993744,Vanda,Philippe Christophe,false,,,Motes,Motes,2016/05/05,Vanda,liouvillei,,
+1027511,Vanda,Motes Semaphore,false,,,Motes,Motes,2019/07/04,,,Vanda,flabellata
+1009904,Vanda,Crystelle Smith,false,,,Motes,Motes,2018/02/07,Vanda,insignis,,
+135831,Vanda,× boumaniae,false,,,This is a natural hybrid,This is a natural hybrid,,Vanda,insignis,,
+
+# Coryanthes trifoliata
+1051148,Coryanthes,Micaels Panker,false,,,M.Liu,M.Liu,2022/08/11,,,Coryanthes,verrucolineata
+
+# Phragmipedium christiansenianum
+1051002,Phragmipedium,Elfin's Pearl,false,,,J-P.Faust,J-P.Faust,2022/07/31,,,Phragmipedium,schlimii
+
+# Bulbophyllum fletcherianum
+1049282,Bulbophyllum,Kala Bhairava,false,,,W.Tjiasmanto,Ken Hashimoto,2022/05/15,,,Bulbophyllum,agastor
+1048995,Bulbophyllum,Wewin's Goliath,false,,,W.Tjiasmanto,Abuflora,2022/04/30,,,Bulbophyllum,orthosepalum
+1048994,Bulbophyllum,Wewin's Giant,false,,,W.Tjiasmanto,W.Tjiasmanto,2022/04/30,,,Bulbophyllum,macrobulbum
+1039330,Bulbophyllum,Princess Chong Kai Qi,false,,,N-M. Chen,N-M. Chen,2020/10/22,,,Bulbophyllum,phalaenopsis
+958426,Bulbophyllum,Rachelle LCDO,false,,,N.Bougourd,N.Bougourd,2014/10/01,Bulbophyllum,frostii,,
+150759,Bulbophyllum,Bellozane,false,,,E.Young O.F.,E.Young O.F.,2005/11/08,,,Bulbophyllum,echinolabium
+
+# Coelogyne barbata
+1048400,Coelonisea,Bit Diggy,false,,,K.Akutsu,K.Akutsu,2022/03/22,Panisea,uniflora,,
+
+# Cattleya skinneri
+1045760,Cattleya,Lim Chong Chee,false,,,Lee Nam Fook,Lee Nam Fook,2021/10/11,,,Cattleya,dowiana
+957734,Cattleytonia,Tzippy,false,,,Quest Orch.,Quest Orch.,2012/10/05,Cattleytonia,Maui Maid,,
+
+# Cattleya dolosa
+78909,Cattleya,× obrieniana,true,,,,,,,,Cattleya,loddigesii
+127304,Cattleya,× schroederiana,true,,,This is a natural hybrid,This is a natural hybrid,,,,Cattleya,bicolor
+1039693,Rhyncholaeliocattleya,Promoción 1974 ADV,false,Brassocattleya,,A.D.Vastik,A.D.Vastik,2020/11/14,,,Rhyncholaeliocattleya,Pastoral
+1035746,Cattleya,Ivy's Blue Eyes,false,,,C.Hackney,C.Hackney,2020/05/25,,,Cattleya,mossiae
+1034934,Cattleya,Conundrum,false,,,L.Madonia,L.Madonia,2020/04/10,Cattleya,Heathii (1),,
+1002129,Cattleya,Via Dolosa,false,,,L.Andreasen,L.Andreasen,2017/04/29,Cattleya,violacea,,
+
+# Catasetum naso
+1034465,Catasetum,Quasimodo,false,,,Akerne Orch.,Akerne Orch.,2020/03/23,,,Catasetum,tenebrosum
+
+# Masdevallia persicina
+136611,Masdevallia,Emmagrace,false,,,A.Barty,A.Barty,2005/06/21,Masdevallia,Pink Mist,,
+938570,Masdevallia,Inca Treasure,false,,,A.D.Clinton,A.D.Clinton,2011/03/15,Masdevallia,Inca Snow,,
+
+# Stenorrhynchos glicensteinii
+1025845,Pterorhynchos,Graziano Grando,false,,,A.Dello Iacovo,Orchids & more,2019/04/26,Pteroglossa,roseoalba,,
+991721,Stenorrhynchos,Judy's Valentine,false,,,L.Glicenstein,L.Glicenstein,2016/02/12,Stenorrhynchos,albidomaculatum,,
+
+# Lepanthes felis
+1013928,Lepanthes,Judite,false,,,J-M.Pallandre,J-M.Pallandre,2018/05/04,Lepanthes,pelvis,,
+
+# Cyrtorchis chailluana
+1001625,Cyrtorchis,Hendrik van der Hoven,false,,,H.Koopowitz,H.Koopowitz,2017/04/14,Cyrtorchis,arcuata,,
+
+# Cypripedium sichuanense
+982060,Cypripedium,Andreas,false,,,W.Frosch,W.Frosch,2015/04/20,Cypripedium,fargesii,,
+
+# Oncidium iricolor
+932843,Oncidium,Eva's Lluvia Pasajera,false,,,Orqu�deas Eva,Orqu�deas Eva,2010/10/27,Oncidium,sphacelatum,,
+
+# Masdevallia impostor
+925818,Masdevallia,Magic Wand,false,,,Seagrove Orch.,Trop.O.Farm,2010/03/12,,,Masdevallia,floribunda
+
+# Spathoglottis paulinae
+150858,Spathoglottis,hybrid b,false,,,This is a natural hybrid,This is a natural hybrid,,Spathoglottis,portus-finschii,,
+
+# Spathoglottis papuana
+150860,Spathoglottis,hybrid c,false,,,This is a natural hybrid,This is a natural hybrid,,Spathoglottis,portus-finschii,,
+
+# Cattleya skinneri
+78927,Cattleya,× guatemalensis,true,Guarianthe,,,,,Cattleya,aurantiaca,,
+991042,Cattleya,× laelioides,false,Guarianthe,,,,,Cattleya,aurantiaca,,
+
+# The following are typos
+# Insignis => insignis
+1043205,Gomesa,WOC Golden Tiger,false,Oncidium,,Woolf Orch.,Woolf Orch.,2021/05/14,Gomesa,Moon Shadow,Gomesa,insignis
+
+# Flying High => Flying High (1987)
+981951,Aliceara,Larry Sanford,false,,,S.Helbling,S.Helbling,2015/04/09,Aliceara,Flying High (1987),Oncidium,Purbeck Gold
+925841,Aliceara,Freeform,false,Degarmoara,,Mauna Kea,J.W.McCully,2010/03/12,Oncidium,Black Diamond,Aliceara,Flying High (1987)
+
+# de Revilla => De Rivilla
+978323,Phalaenopsis,Revilleurat de Paris,false,,,Marcel Lecoufle,Marcel Lecoufle,2014/12/01,Phalaenopsis,Marta De Rivilla,Phalaenopsis,Georges Seurat
+
+# Scholo? => Scholoss
+974817,Phalaenopsis,Schloss Holte,false,,,Roellke Orch.,Roellke Orch.,2014/06/08,Phalaenopsis,Mad Hatter,Phalaenopsis,amabilis
+
+# Scholo? => Scholoss, Stuckenbrock => Stukenbrock
+974821,Phalaenopsis,Ems Juwel,false,,,Roellke Orch.,Roellke Orch.,2014/06/09,Phalaenopsis,Schloss Holte,Phalaenopsis,Stukenbrock
+
+# Doritaenopsis => Phalaenopsis
+946488,Phalaenopsis,Day Yang Golden Stripes,true,Phalaenopsis,Anmio Golden Angel,C-C.Hung,C-C.Hung,2011/11/03,Phalaenopsis,Fusheng Sweet Memory,Phalaenopsis,Sin-Yaun Golden Beauty
+166251,Phalaenopsis,ELEGANT DEBORAH,true,Phalaenopsis,Taida Pearl,,,2007/09/07,Phalaenopsis,Ching Hua Spring,Phalaenopsis,Sogo Davis
+
+# Delight Sunset => KS Delight Sunset
+935312,Phalaenopsis,KS Little Orange,false,,,Kung Sir Orch.,Kung Sir Orch.,2011/01/24,Phalaenopsis,KS Delight Sunset,Phalaenopsis,Brother Pepride
+
+# Hawkinsara => Cattleytonia
+166661,Cattleytonia,Dream Splash,true,Cattleytonia,Deceived in War,D.Neuendorff,D.Neuendorff,2007/09/27,Cattleya,Elusive Dream,Cattleytonia,Capri
+
+# Remove '� ' from the start of richteri
+163204,Phragmipedium,Peruflora's Angel,false,,,Peruflora,Peruflora,2007/07/19,Phragmipedium,richteri,Phragmipedium,kovachii
+
+# Brassocattleya => Rhyncholaeliocattleya
+1601,Rhyncholaeliocattleya,Mariae,true,Rhyncholaeliocattleya,Digbyano-Warneri,Chamberlain,Chamberlain,1902/01/01,Rhyncholaelia,digbyana,Cattleya,warneri
+18444,Rhyncholaeliocattleya,Leemanniae,true,Rhyncholaeliocattleya,Mrs. J. Leemann,Maron,Maron,1902/01/01,Rhyncholaelia,digbyana,Cattleya,dowiana
+124132,Rhyncholaeliocattleya,Madeleine,true,Rhyncholaeliocattleya,Gatton Lily,Maron,Maron,1910/01/01,Rhyncholaeliocattleya,Imp�ratrice de Russie,Cattleya,trianae
+958397,Rhyncholaeliocattleya,Warburtoni,true,Rhyncholaeliocattleya,Digbyano-Schroederae,Warburton,Warburton,1907/01/01,Rhyncholaelia,digbyana,Cattleya,schroederae
+958402,Rhyncholaeliocattleya,Eric Lucas,true,Rhyncholaeliocattleya,Digbyano-Warneri,Lucas,Lucas,1904/01/01,Rhyncholaelia,digbyana,Cattleya,warneri
+958403,Rhyncholaeliocattleya,Princess Victoria,true,Rhyncholaeliocattleya,Digbyano-mossiae,Charlesworth Ltd.,Charlesworth Ltd.,1904/01/01,Rhyncholaelia,digbyana,Cattleya,mossiae
+958401,Rhyncholaeliocattleya,Warnei-digbyana,true,Rhyncholaeliocattleya,Digbyano-Warneri,Charlesworth Ltd.,Charlesworth Ltd.,1904/01/01,Rhyncholaelia,digbyana,Cattleya,warneri
+132044,Rhyncholaeliocattleya,Fournierae,true,Rhyncholaeliocattleya,Marguerite Fournier,Fournier,Fournier,1902/01/01,Rhyncholaelia,digbyana,Cattleya,labiata
+132038,Rhyncholaeliocattleya,Maroni,true,Rhyncholaeliocattleya,Digbyano-Mendelii,Maron,Maron,1899/01/01,Rhyncholaelia,digbyana,Cattleya,mendelii
+1638,Rhyncholaeliocattleya,Veitchii (1898),true,Rhyncholaeliocattleya,Digbyano-Purpurata,Veitch,Veitch,1898/01/01,Rhyncholaelia,digbyana,Cattleya,purpurata
+18628,Rhyncholaeliocattleya,Veitchii (1889),true,Rhyncholaeliocattleya,Digbyano-mossiae,Veitch,Veitch,1889/01/01,Rhyncholaelia,digbyana,Cattleya,mossiae
+
+# Brassolaelia => Rhyncholaeliocattleya
+1017506,Rhyncholaeliocattleya,Purpurata,true,Rhyncholaeliocattleya,Digbyano-Purpurata,,,1908/05/01,Rhyncholaelia,digbyana,Cattleya,purpurata
+
+# Laeliocattleya => Cattleya
+142023,Cattleya,Thetis (1920),true,Cattleya,Theniss,Charlesworth Ltd.,Charlesworth Ltd.,1920/01/01,Cattleya,Myrrha,Cattleya,trianae
+150005,Cattleya,Eira (1909),true,Cattleya,Elektra,H.,H.,1909/06/01,Cattleya,trianae,Cattleya,Latona
+127702,Cattleya,Kraenzlini,true,Cattleya,Kraenzlinii,Sanders[St Albans],Sanders[St Albans],1893/01/01,Cattleya,mossiae,Cattleya,Elegans (1879)
+
+# Cattleya => Laeliocattleya
+151440,Cattleya,Amesiae,true,Laeliocattleya,Boylei,Sanders[St Albans],Sanders[St Albans],1892/06/01,Cattleya,maxima,Cattleya,crispa
+
+# Odontioda => Oncidium
+11437,Oncidium,Nora,true,Oncidium,Stephensonii,Charlesworth Ltd.,Charlesworth Ltd.,1918/03/02,Oncidium,Schroederi,Oncidium,Aireworth
+150006,Oncidium,Mossiae,true,Oncidium,Kenchii,R&H,Moss,1909/01/01,Oncidium,kegeljani,Oncidium,Wilckeanum
+
+# Odontoglossum => Oncidium
+3282,Oncidium,Spectabile,true,Oncidium,Crispo-Harryanum,Vuylsteke,Vuylsteke,1899/01/01,Oncidium,alexandrae,Oncidium,harryanum
+957249,Oncidium,Nobilius,true,Oncidium,Harvengtense,Vuylsteke,Vuylsteke,1898/01/01,Oncidium,alexandrae,Oncidium,spectatissimum
+4027,Oncidium,Denisoniae,true,Oncidium,Wilckeanum,E.Rothschild,E.Rothschild,1890/01/01,Oncidium,alexandrae,Oncidium,luteopurpureum
+
+# Roczonii => × roczonii
+29718,Ornithocidium,× roczonii,true,Gomesa,× roczonii,,,,Oncidium,riograndense,Ornithophora,radicans
