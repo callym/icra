@@ -36,6 +36,22 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "683d7910e743518b0e34f1186f92494becacb047c7b6bf616c96772180fef923"
 
 [[package]]
+name = "american-begonia-society"
+version = "0.1.0"
+dependencies = [
+ "csv",
+ "derive_more 1.0.0",
+ "reqwest",
+ "scraper",
+ "serde",
+ "sqlx",
+ "thiserror 2.0.6",
+ "time",
+ "tokio",
+ "uuid",
+]
+
+[[package]]
 name = "atoi"
 version = "2.0.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -284,6 +300,26 @@ name = "derive_more"
 version = "0.99.18"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "5f33878137e4dafd7fa914ad4e259e18a4e8e532b9617a2d0150262bf53abfce"
+dependencies = [
+ "proc-macro2",
+ "quote",
+ "syn",
+]
+
+[[package]]
+name = "derive_more"
+version = "1.0.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "4a9b99b9cbbe49445b21764dc0625032a89b145a2642e67603e1c936f5458d05"
+dependencies = [
+ "derive_more-impl",
+]
+
+[[package]]
+name = "derive_more-impl"
+version = "1.0.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "cb7330aeadfbe296029522e6c40f315320aba36fc43a5b3632f3795348f3bd22"
 dependencies = [
  "proc-macro2",
  "quote",
@@ -1516,6 +1552,21 @@ dependencies = [
 ]
 
 [[package]]
+name = "rhs-international-daffodil-register"
+version = "0.1.0"
+dependencies = [
+ "csv",
+ "reqwest",
+ "scraper",
+ "serde",
+ "sqlx",
+ "thiserror 2.0.6",
+ "time",
+ "tokio",
+ "uuid",
+]
+
+[[package]]
 name = "rhs-international-orchid-register"
 version = "0.1.0"
 dependencies = [
@@ -1690,7 +1741,7 @@ checksum = "fd568a4c9bb598e291a08244a5c1f5a8a6650bee243b5b0f8dbb3d9cc1d87fe8"
 dependencies = [
  "bitflags",
  "cssparser",
- "derive_more",
+ "derive_more 0.99.18",
  "fxhash",
  "log",
  "new_debug_unreachable",
